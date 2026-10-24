@@ -1,0 +1,3619 @@
+[
+  {
+    "id": "05513183-49db-48db-bb49-19f5e76caa1f",
+    "title": "منصات البث",
+    "folders": [
+      {
+        "id": "1c71b919-5766-43cf-b159-b793838d7a33",
+        "title": "HBO Max\nØ¥ØªØ´ Ø¨ÙŠ Ø£Ùˆ Ù…Ø§ÙƒØ³",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "hbm",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "hbm",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/fVQfqsq4/file-00000000909472438ac2200b860aded2.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "cf1471ce-b772-4961-99e4-d06f523a9423",
+        "title": "Disney+\nØ¯ÛŒØ²Ù†ÛŒ Ø¨Ù„Ø³",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "dnp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "dnp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/S4V4HCfN/file-0000000078bc7246aa717ad65691227f.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "63a861d2-8c2a-49c7-8e50-d8a0a747654c",
+        "title": "Apple TV+\nØ¢Ø¨Ù„ ØªÙŠ ÙÙŠ Ø¨Ù„Ø³",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "atp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "atp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/b50Wpr4Z/file-00000000e1a4720ab8f7265275a68849.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "dd01c459-8ec1-42a4-a0c7-cbe7eb018081",
+        "title": "Hulu\nÙ‡ÙˆÙ„Ùˆ",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "hlu",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "hlu",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/Hfrr7XwV/file-00000000178471f4a030ce25be707fe1.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "84eb75ce-a695-4247-b237-56e211886933",
+        "title": "Netflix\nÙ†ØªÙÙ„ÙŠÙƒØ³",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "nfx",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "nfx",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/HTMLYJYW/file-00000000a72c720a9712fd1f3b52413b.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "a0a47c8a-4240-42b9-a290-f5696a20a615",
+        "title": "Paramount\nØ¨Ø§Ø± Ø§Ù…ÙˆÙ†Øª",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "pmp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "pmp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/JWFhr3NG/file-000000008818720a93326cfb0946d691.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pmp"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pmp"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "2d70b355-b5a1-436d-9bc6-3f8acd285062",
+        "title": "peacock\nØ¨ÙŠÙƒÙˆÙƒ",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "pcp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "pcp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/nMTrpCGM/file-00000000c568724681886b2ce82a24fb.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "07fc6ccb-00df-4c82-9b01-f43445e9e38f",
+        "title": "Prime Video\nØ¨Ø±Ø§ÛŒÙ… ÙÙŠØ¯ÙŠÙˆ",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "amp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "amp",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://i.ibb.co/YFN5PRH6/file-0000000057a4720aadd532c569c10a29.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-22ad69b6-community-community",
+    "title": "ArabCinemeta",
+    "folders": [
+      {
+        "id": "folder-3e70ffa7",
+        "title": "elCinima",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-now",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tv-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tv-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-featured-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-boxoffice",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-top-egyptian-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-top-egyptian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-country",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-country",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-genre",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-genre",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-year",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-year",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-ramadan",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ElXQgqu5rdD5IH0CLBmh1ByfAUQ8lE9PvInyqqeV5FqHXxuX2oBbDxQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vaITnvhLTHg3Dchh0uKiNgDd_HcyF7BeRvSsxUBO2uHlqliI1vqIHb4d&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ElXQgqu5rdD5IH0CLBmh1ByfAUQ8lE9PvInyqqeV5FqHXxuX2oBbDxQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-now"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tv-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tv-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-featured-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-boxoffice"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-top-egyptian-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-top-egyptian-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-country"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-country"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-genre"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-genre"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-year"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-year"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-ramadan"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vaITnvhLTHg3Dchh0uKiNgDd_HcyF7BeRvSsxUBO2uHlqliI1vqIHb4d&s=10"
+      },
+      {
+        "id": "folder-73ac7a30",
+        "title": "Watch It",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-next-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-must-watch-programs",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-rotana-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-next-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-top-10-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-original-series"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-egyptian-series"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-kids-series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xhMwBbQiVOBghMantfhVwdGt1oB8Ghunv7gfrh66GQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRtdYjbDvY_a1MKEk4qhahKI-7eJdYhBck0ZfkWRXlw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xhMwBbQiVOBghMantfhVwdGt1oB8Ghunv7gfrh66GQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-next-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-must-watch-programs"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-rotana-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-next-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-top-10-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-original-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-egyptian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-kids-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRtdYjbDvY_a1MKEk4qhahKI-7eJdYhBck0ZfkWRXlw&s=10"
+      },
+      {
+        "id": "folder-ef9d0465",
+        "title": "Shahid",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-top-10-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-new-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-originals-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-gulf-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-pan-arab-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-comedy-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-social-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-saudi-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-egyptian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-syrian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-action-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-family-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-comedy-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-drama-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-egyptian-movies"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH9MbtFqayB0Ntax_Edkcn2sZUFmDJoN7V6QmRUlbYA&s",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfQ-Fu95-3Z4RlpxStPRrrNgaHP8b6FVrSE122r_jnw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH9MbtFqayB0Ntax_Edkcn2sZUFmDJoN7V6QmRUlbYA&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-top-10-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-new-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-originals-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-gulf-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-pan-arab-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-comedy-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-social-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-saudi-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-egyptian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-syrian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-action-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-family-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-comedy-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-egyptian-movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfQ-Fu95-3Z4RlpxStPRrrNgaHP8b6FVrSE122r_jnw&s=10"
+      },
+      {
+        "id": "folder-3f9b07a1",
+        "title": "TOD",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-arabic-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-all-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-top-10-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-exclusive-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-studios-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-trending-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-trending-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-arabic-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-gulf-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-egyptian-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-iMInQGPFlRijk58Y5Ez0vExSBcbDh9OZcmXjph_JA&s=10",
+        "titleLogoUrl": "https://assets.osamayousry.com/nuvio/brand-v2/logos/tod.png",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-iMInQGPFlRijk58Y5Ez0vExSBcbDh9OZcmXjph_JA&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-arabic-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-all-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-top-10-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-exclusive-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-studios-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-trending-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-trending-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-arabic-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-gulf-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-egyptian-shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://assets.osamayousry.com/nuvio/brand-v2/logos/tod.png"
+      },
+      {
+        "id": "folder-8dc7dbe8",
+        "title": "Yango Play",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-editorial-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-editorial-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03bwreaV19bc79f9xT_Zq_wOtdZeLOY_LgMx50m9wuQ&s",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtC_RQK9a625gLu9KON5kb8yDP0AWWgpONfYZrNHVZQ&s",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03bwreaV19bc79f9xT_Zq_wOtdZeLOY_LgMx50m9wuQ&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-editorial-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-editorial-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtC_RQK9a625gLu9KON5kb8yDP0AWWgpONfYZrNHVZQ&s"
+      },
+      {
+        "id": "folder-c72fa6e7",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-netflix-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-netflix-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91gke83AgsjipPMZmrsDP0-K7oWgm4ZCkxZNh9Exo3Q&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNC1qkPr07dpqC-tj6TsVkVbxGXY5n62pKXoNZnw5Zg&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91gke83AgsjipPMZmrsDP0-K7oWgm4ZCkxZNh9Exo3Q&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-netflix-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-netflix-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNC1qkPr07dpqC-tj6TsVkVbxGXY5n62pKXoNZnw5Zg&s=10"
+      },
+      {
+        "id": "folder-317b2e50",
+        "title": "OSN+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-osn-plus-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-osn-plus-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EKLtwJLTCq4TzkZ-SPXdeC1Fi2WYMCGvZTB3Jn8H2g&s",
+        "titleLogoUrl": "https://likecard-space.fra1.cdn.digitaloceanspaces.com/categories/674822ac9db9a_1732780716.png",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EKLtwJLTCq4TzkZ-SPXdeC1Fi2WYMCGvZTB3Jn8H2g&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-osn-plus-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-osn-plus-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://likecard-space.fra1.cdn.digitaloceanspaces.com/categories/674822ac9db9a_1732780716.png"
+      },
+      {
+        "id": "folder-f88c116c",
+        "title": "Starzplay",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-starzplay-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-starzplay-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ7AvkfWAu8gT4Zuu9HsQcakpxj2et7q5zigEfejv9g&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hD18brvAQN9MXI2Ci9MZdonYu087jjDjeHUZ6MmG4w&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ7AvkfWAu8gT4Zuu9HsQcakpxj2et7q5zigEfejv9g&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-starzplay-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-starzplay-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hD18brvAQN9MXI2Ci9MZdonYu087jjDjeHUZ6MmG4w&s=10"
+      },
+      {
+        "id": "folder-b75af816",
+        "title": "Youtube",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-youtube-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-youtube-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fj7DFI1NzRf-P0YQ-8bpBG7AInXUCyLTy_FqMG8qOQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYamVnqxDpaQNelNB_kkexMShvF4m9S0wmqvmXuClNow&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fj7DFI1NzRf-P0YQ-8bpBG7AInXUCyLTy_FqMG8qOQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-youtube-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-youtube-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYamVnqxDpaQNelNB_kkexMShvF4m9S0wmqvmXuClNow&s=10"
+      },
+      {
+        "id": "folder-b0c65551",
+        "title": "Viu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-viu-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-viu-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKznemG5MhCd9YmvjiNN1sbdqXP1F3GPkzcFdy5q2g&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSem030_hL_WylcbLhrp1QnxbcRmp7i9ldoNF2fdKpHnQ&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKznemG5MhCd9YmvjiNN1sbdqXP1F3GPkzcFdy5q2g&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-viu-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-viu-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSem030_hL_WylcbLhrp1QnxbcRmp7i9ldoNF2fdKpHnQ&s=10"
+      },
+      {
+        "id": "folder-7abdec22",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-amazon-prime-video-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9nMgK0pfQbpRQUxsGKtTGbea7IuwmKhb7IgQOSRU9g&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4G3TuKk2-7XB9dnSBSSORseW7nh7rXQb8W5xrrGDnw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9nMgK0pfQbpRQUxsGKtTGbea7IuwmKhb7IgQOSRU9g&s=10",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-amazon-prime-video-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4G3TuKk2-7XB9dnSBSSORseW7nh7rXQb8W5xrrGDnw&s=10"
+      },
+      {
+        "id": "folder-8b0d16b2",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-disney-plus-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7we0MbBktuklSbwZ4uSwGHb_UJoASy9bKqwFVsIN09A&s=10",
+        "titleLogoUrl": "https://images6.alphacoders.com/134/thumb-350-1340430.webp",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7we0MbBktuklSbwZ4uSwGHb_UJoASy9bKqwFVsIN09A&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-disney-plus-movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images6.alphacoders.com/134/thumb-350-1340430.webp"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "ROWS",
+    "community": {
+      "id": "arabcinemeta-v2",
+      "version": 2,
+      "installMode": "copy",
+      "installedAt": 1792353693004,
+      "packCollectionId": "collection-22ad69b6-community",
+      "originalCollectionId": "collection-22ad69b6-community"
+    },
+    "showAllTab": true,
+    "backdropImageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABX1BMVEUQITrwTz3/+vL/////vTgAIDr5UT0xx7RPKzpcLjr///f///vwTTvvRTFBKTr+7+bvPSb3qZ74sKXxVUL2n5MAGDQAHjr/wjjvQSwAACkAACXwSjfvRDAAAB8AFTMADy/m5+lfZnMAAB383tUVJj7b3N/x8vMAACfvRz2kqK+AhY/96N/6yL63ur9QWGfxYVGTmKA7RljzeGoAETr+uDjO0NQoNkv0hnnya1x0eoZFT18pJTrEwsB0MjukPTvHRTzcSzyFNjv5u7H1kYX1djvyXzyUOTv4jDr71s30gnXyZlb2o5iboKd5f4lAHzNAFi1hVF9VQk/2fztoIjv7pTnQezozJjqhfDn1tjhQRjl+ZTnxXTzARDz0cDu/izkoGjr/xVf/2Zj/8dl8NDv/0Hv9u1v70s3zaCf5mDq7fGqkkH+Lm4nPbFtdtaJ3p5VjsZ+ZlIKJnozWYlC2gW/FdGOcuSCrAAANjklEQVR4nO2d+XvayBnHkWXwVkfABmEdgMA2t8E2a/CR2nHA2fWV3Tbdurvdute26W42SbfZ/P9PJS6DmHdmBJItzZPvD/khj5D10XvOSJqJ8K6UbzduaoXjztZW5KG1tdU5LtRuGu2Su0uO0B/a3m1GdF0zc0r6wfEGSis5U9P1SHO37TlhvtrM6qbySGROKaaebVbzHhI2jnUtKHQjKZp+3PCGMF/TAoc3kKJpNbIhSYTFgm4+NglGpl4oLkRYLGRzjw1BUC5LYMQRlo42gs5nK7dxhCsgGMKqFmT/nJSpVecgzO/pj33hLqTvgSkHIqyWg5k/ISllyIwAYSFMBhxIL7ggzHfCEoGTMjtIT0URtgNa4UlSNFS7iiCsZh/7UudWFhGMs4TVjce+zgW0cUMm3A2vBW1ld0mEN+EGRDiqgzDULjrQRgNH2Ai7BW1l2zBhMXx1HiU9DxJuhbMOOqV0IMJmGDsZlMwjNGGVDR+1NZlQ7wnz5ce+Lg81EYr3hHtsBOFAyt4sIUM+akuvOglL2mNfk8fSSg7Cl6zk0ZHMl9OExbm7tSi1FNPULJXL9r9mLk35s3kvLFucIiy4njaMRtPpdDTy9PYJhb76+uuvn/yutlv97UCNm92j39v/+RXxp7",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-22ad69b6-community-draft",
+    "title": "ArabCinemeta",
+    "folders": [
+      {
+        "id": "folder-3e70ffa7",
+        "title": "elCinima",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-now",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tv-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tv-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-featured-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-boxoffice",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-top-egyptian-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-top-egyptian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-country",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-country",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-genre",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-genre",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-movies-year",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-series-year",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-ramadan",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ElXQgqu5rdD5IH0CLBmh1ByfAUQ8lE9PvInyqqeV5FqHXxuX2oBbDxQ&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vaITnvhLTHg3Dchh0uKiNgDd_HcyF7BeRvSsxUBO2uHlqliI1vqIHb4d&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ElXQgqu5rdD5IH0CLBmh1ByfAUQ8lE9PvInyqqeV5FqHXxuX2oBbDxQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-now"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tv-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tv-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-featured-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-boxoffice"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-top-egyptian-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-top-egyptian-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-country"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-country"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-genre"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-genre"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-movies-year"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-series-year"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-ramadan"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vaITnvhLTHg3Dchh0uKiNgDd_HcyF7BeRvSsxUBO2uHlqliI1vqIHb4d&s=10"
+      },
+      {
+        "id": "folder-73ac7a30",
+        "title": "Watch It",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-next-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-must-watch-programs",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-rotana-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-next-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-top-10-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-original-series"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-egyptian-series"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-watch-it-kids-series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xhMwBbQiVOBghMantfhVwdGt1oB8Ghunv7gfrh66GQ&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRtdYjbDvY_a1MKEk4qhahKI-7eJdYhBck0ZfkWRXlw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xhMwBbQiVOBghMantfhVwdGt1oB8Ghunv7gfrh66GQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-next-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-must-watch-programs"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-rotana-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-next-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-top-10-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-original-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-egyptian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-watch-it-kids-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRtdYjbDvY_a1MKEk4qhahKI-7eJdYhBck0ZfkWRXlw&s=10"
+      },
+      {
+        "id": "folder-ef9d0465",
+        "title": "Shahid",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-top-10-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-new-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-originals-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-gulf-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-pan-arab-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-comedy-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-social-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-saudi-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-egyptian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-syrian-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-action-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-family-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-comedy-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-drama-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.elcinema.metadata",
+            "provider": "addon",
+            "catalogId": "elcinema-shahid-egyptian-movies"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH9MbtFqayB0Ntax_Edkcn2sZUFmDJoN7V6QmRUlbYA&s",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfQ-Fu95-3Z4RlpxStPRrrNgaHP8b6FVrSE122r_jnw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH9MbtFqayB0Ntax_Edkcn2sZUFmDJoN7V6QmRUlbYA&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-top-10-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-new-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-originals-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-gulf-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-pan-arab-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-comedy-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-social-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-saudi-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-egyptian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-syrian-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-action-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-family-series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-comedy-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-drama-movies"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-shahid-egyptian-movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfQ-Fu95-3Z4RlpxStPRrrNgaHP8b6FVrSE122r_jnw&s=10"
+      },
+      {
+        "id": "folder-3f9b07a1",
+        "title": "TOD",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-arabic-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-all-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-top-10-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-top-10-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-exclusive-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-studios-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-trending-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-trending-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-arabic-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-gulf-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-tod-egyptian-shows",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-iMInQGPFlRijk58Y5Ez0vExSBcbDh9OZcmXjph_JA&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://assets.osamayousry.com/nuvio/brand-v2/logos/tod.png",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-iMInQGPFlRijk58Y5Ez0vExSBcbDh9OZcmXjph_JA&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-arabic-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-all-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-top-10-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-top-10-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-exclusive-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-studios-shows"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-trending-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-trending-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-arabic-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-gulf-shows"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-tod-egyptian-shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://assets.osamayousry.com/nuvio/brand-v2/logos/tod.png"
+      },
+      {
+        "id": "folder-8dc7dbe8",
+        "title": "Yango Play",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-editorial-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-yango-play-editorial-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03bwreaV19bc79f9xT_Zq_wOtdZeLOY_LgMx50m9wuQ&s",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtC_RQK9a625gLu9KON5kb8yDP0AWWgpONfYZrNHVZQ&s",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03bwreaV19bc79f9xT_Zq_wOtdZeLOY_LgMx50m9wuQ&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-editorial-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-series"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-yango-play-editorial-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtC_RQK9a625gLu9KON5kb8yDP0AWWgpONfYZrNHVZQ&s"
+      },
+      {
+        "id": "folder-c72fa6e7",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-netflix-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-netflix-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91gke83AgsjipPMZmrsDP0-K7oWgm4ZCkxZNh9Exo3Q&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNC1qkPr07dpqC-tj6TsVkVbxGXY5n62pKXoNZnw5Zg&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91gke83AgsjipPMZmrsDP0-K7oWgm4ZCkxZNh9Exo3Q&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-netflix-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-netflix-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNC1qkPr07dpqC-tj6TsVkVbxGXY5n62pKXoNZnw5Zg&s=10"
+      },
+      {
+        "id": "folder-317b2e50",
+        "title": "OSN+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-osn-plus-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-osn-plus-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EKLtwJLTCq4TzkZ-SPXdeC1Fi2WYMCGvZTB3Jn8H2g&s",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://likecard-space.fra1.cdn.digitaloceanspaces.com/categories/674822ac9db9a_1732780716.png",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EKLtwJLTCq4TzkZ-SPXdeC1Fi2WYMCGvZTB3Jn8H2g&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-osn-plus-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-osn-plus-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://likecard-space.fra1.cdn.digitaloceanspaces.com/categories/674822ac9db9a_1732780716.png"
+      },
+      {
+        "id": "folder-f88c116c",
+        "title": "Starzplay",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-starzplay-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-starzplay-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ7AvkfWAu8gT4Zuu9HsQcakpxj2et7q5zigEfejv9g&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hD18brvAQN9MXI2Ci9MZdonYu087jjDjeHUZ6MmG4w&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ7AvkfWAu8gT4Zuu9HsQcakpxj2et7q5zigEfejv9g&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-starzplay-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-starzplay-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hD18brvAQN9MXI2Ci9MZdonYu087jjDjeHUZ6MmG4w&s=10"
+      },
+      {
+        "id": "folder-b75af816",
+        "title": "Youtube",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-youtube-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-youtube-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fj7DFI1NzRf-P0YQ-8bpBG7AInXUCyLTy_FqMG8qOQ&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYamVnqxDpaQNelNB_kkexMShvF4m9S0wmqvmXuClNow&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fj7DFI1NzRf-P0YQ-8bpBG7AInXUCyLTy_FqMG8qOQ&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-youtube-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-youtube-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYamVnqxDpaQNelNB_kkexMShvF4m9S0wmqvmXuClNow&s=10"
+      },
+      {
+        "id": "folder-b0c65551",
+        "title": "Viu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-viu-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-viu-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKznemG5MhCd9YmvjiNN1sbdqXP1F3GPkzcFdy5q2g&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSem030_hL_WylcbLhrp1QnxbcRmp7i9ldoNF2fdKpHnQ&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKznemG5MhCd9YmvjiNN1sbdqXP1F3GPkzcFdy5q2g&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-viu-movies"
+          },
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-viu-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSem030_hL_WylcbLhrp1QnxbcRmp7i9ldoNF2fdKpHnQ&s=10"
+      },
+      {
+        "id": "folder-7abdec22",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-amazon-prime-video-series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9nMgK0pfQbpRQUxsGKtTGbea7IuwmKhb7IgQOSRU9g&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4G3TuKk2-7XB9dnSBSSORseW7nh7rXQb8W5xrrGDnw&s=10",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9nMgK0pfQbpRQUxsGKtTGbea7IuwmKhb7IgQOSRU9g&s=10",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-amazon-prime-video-series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4G3TuKk2-7XB9dnSBSSORseW7nh7rXQb8W5xrrGDnw&s=10"
+      },
+      {
+        "id": "folder-8b0d16b2",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "community.elcinema.metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "elcinema-disney-plus-movies",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7we0MbBktuklSbwZ4uSwGHb_UJoASy9bKqwFVsIN09A&s=10",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://images6.alphacoders.com/134/thumb-350-1340430.webp",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7we0MbBktuklSbwZ4uSwGHb_UJoASy9bKqwFVsIN09A&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.elcinema.metadata",
+            "catalogId": "elcinema-disney-plus-movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://images6.alphacoders.com/134/thumb-350-1340430.webp"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "ROWS",
+    "showAllTab": true,
+    "backdropImageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABX1BMVEUQITrwTz3/+vL/////vTgAIDr5UT0xx7RPKzpcLjr///f///vwTTvvRTFBKTr+7+bvPSb3qZ74sKXxVUL2n5MAGDQAHjr/wjjvQSwAACkAACXwSjfvRDAAAB8AFTMADy/m5+lfZnMAAB383tUVJj7b3N/x8vMAACfvRz2kqK+AhY/96N/6yL63ur9QWGfxYVGTmKA7RljzeGoAETr+uDjO0NQoNkv0hnnya1x0eoZFT18pJTrEwsB0MjukPTvHRTzcSzyFNjv5u7H1kYX1djvyXzyUOTv4jDr71s30gnXyZlb2o5iboKd5f4lAHzNAFi1hVF9VQk/2fztoIjv7pTnQezozJjqhfDn1tjhQRjl+ZTnxXTzARDz0cDu/izkoGjr/xVf/2Zj/8dl8NDv/0Hv9u1v70s3zaCf5mDq7fGqkkH+Lm4nPbFtdtaJ3p5VjsZ+ZlIKJnozWYlC2gW/FdGOcuSCrAAANjklEQVR4nO2d+XvayBnHkWXwVkfABmEdgMA2t8E2a/CR2nHA2fWV3Tbdurvdute26W42SbfZ/P9PJS6DmHdmBJItzZPvD/khj5D10XvOSJqJ8K6UbzduaoXjztZW5KG1tdU5LtRuGu2Su0uO0B/a3m1GdF0zc0r6wfEGSis5U9P1SHO37TlhvtrM6qbySGROKaaebVbzHhI2jnUtKHQjKZp+3PCGMF/TAoc3kKJpNbIhSYTFgm4+NglGpl4oLkRYLGRzjw1BUC5LYMQRlo42gs5nK7dxhCsgGMKqFmT/nJSpVecgzO/pj33hLqTvgSkHIqyWg5k/ISllyIwAYSFMBhxIL7ggzHfCEoGTMjtIT0URtgNa4UlSNFS7iiCsZh/7UudWFhGMs4TVjce+zgW0cUMm3A2vBW1ld0mEN+EGRDiqgzDULjrQRgNH2Ai7BW1l2zBhMXx1HiU9DxJuhbMOOqV0IMJmGDsZlMwjNGGVDR+1NZlQ7wnz5ce+Lg81EYr3hHtsBOFAyt4sIUM+akuvOglL2mNfk8fSSg7Cl6zk0ZHMl9OExbm7tSi1FNPULJXL9r9mLk35s3kvLFucIiy4njaMRtPpdDTy9PYJhb76+uuvn/yutlv97UCNm92j39v/+RXxp7",
+    "focusGlowEnabled": false
+  }
+]
